@@ -14,3 +14,4 @@ pom.xml.asc
 .cpcache/
 dump/
 .clj-kondo/
+.lsp/
