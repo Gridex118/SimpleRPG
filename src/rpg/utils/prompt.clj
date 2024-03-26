@@ -1,4 +1,4 @@
-(ns rpg.utils.prompt-options)
+(ns rpg.utils.prompt)
 
 (defn build-prompt [options]
   (doseq [opt options]
